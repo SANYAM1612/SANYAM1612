@@ -1,5 +1,6 @@
 ### hey there 
 <img alt = "profile views" src="https://komarev.com/ghpvc/?username=SANYAM1612&color=brightgreen"> 
+<br>
 <a href="https://instagram.com/sam_gupta2003?igshid=YmMyMTA2M2Y=">
   <img align="left" alt="Sanyam's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
