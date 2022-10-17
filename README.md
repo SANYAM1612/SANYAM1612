@@ -38,8 +38,6 @@ if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/sgupta13beA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abn15&show_icons=true&locale=en&layout=compact" alt="abn15" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abn15&show_icons=true&locale=en" alt="abn15" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abn15&" alt="abn15" /></p>
