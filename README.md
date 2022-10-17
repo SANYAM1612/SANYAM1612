@@ -33,29 +33,18 @@ i am also an open-source enthusiast and maintainer. i learned a lot from the ope
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
-
-```text
-TypeScript   7 hrs 39 mins   ███████████████████▒░░░░░   76.96 %
-JavaScript   2 hrs 6 mins    █████▒░░░░░░░░░░░░░░░░░░░   21.14 %
-SCSS         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.81 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-```
-
-<!--END_SECTION:waka-->
 
 if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
 
 <a href="https://www.buymeacoffee.com/sgupta13beA"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  7,995 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abn15&show_icons=true&locale=en&layout=compact" alt="abn15" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abn15&show_icons=true&locale=en" alt="abn15" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abn15&" alt="abn15" /></p>
+
+
 
 
 📈 my github stats
