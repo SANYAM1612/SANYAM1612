@@ -8,8 +8,6 @@
   <img align="left" alt="Abhishek's LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
 
-![](https://visitor-badge.glitch.me/badge?page_id=abhisheknaiidu.abhisheknaiidu)
-
 <br />
 
 hi, i'm Sanyam Gupta, and I am passionate to learn full stack web development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
