@@ -10,7 +10,7 @@
 
 <br />
 
-hi, i'm Sanyam Gupta, and I am passionate to learn full stack web development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
+Hi, i'm Sanyam Gupta, and I am passionate to learn full stack web development. My passion for software lies with dreaming up ideas and making them come true with elegant interfaces.
 
 i am also an open-source enthusiast and maintainer. i learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source.
 
